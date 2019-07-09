@@ -9,12 +9,12 @@
     background-color:black;
     transform:translate(-50%,-50%);
     /*box-sizing: border-box;*/
-    background: rgba(0,0,0,0.5)/*background: rgba(0,0,0,0) ‘›«›…*/
+    background: rgba(0,0,0,0.5)/*background: rgba(0,0,0,0) √î√ù√á√ù√â*/
 
 }
 .box h1
 {
-    color:white;
+    color:red;
     text-transform:uppercase;
     font-weight:500 ;
     font-style: italic;
